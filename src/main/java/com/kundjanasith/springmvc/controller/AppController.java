@@ -26,3 +26,4 @@ public class AppController {
 		return "test";
 	}
 }
+
